@@ -23,7 +23,7 @@ I specialize in **SQL, Power BI, and Excel** to analyze data and build business 
 
 ## 1️⃣ Retail Customer Analytics
 🔗 Project Link:  
-https://github.com/Krishagrawal-046/Retail-Customer-Analytics
+[https://github.com/Krishagrawal-046/Retail-Customer-Analytics](https://github.com/Krishagrawal-046/Retail-Customer-Analytics)
 
 **Description**
 - Analyzed retail customer purchase behavior
@@ -38,7 +38,7 @@ https://github.com/Krishagrawal-046/Retail-Customer-Analytics
 
 ## 2️⃣ Bank Loan Analysis Dashboard
 🔗 Project Link:  
-https://github.com/Krishagrawal-046/Bank-Loan-Analysis-Dashboard-
+[https://github.com/Krishagrawal-046/Bank-Loan-Analysis-Dashboard-](https://github.com/Krishagrawal-046/-Bank-Loan-Analysis-Dashboard-)
 
 **Description**
 - Analyzed loan applications, funding and repayment patterns
@@ -52,7 +52,7 @@ https://github.com/Krishagrawal-046/Bank-Loan-Analysis-Dashboard-
 
 ## 3️⃣ Customer Churn Analysis
 🔗 Project Link:  
-https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-
+[https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-](https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-)
 
 **Description**
 - Identified churn patterns
@@ -62,7 +62,7 @@ https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-
 
 ## 4️⃣ Financial Transaction Risk Analysis
 🔗 Project Link:  
-https://github.com/Krishagrawal-046/Financial-Transaction-Risk-Analysis
+[https://github.com/Krishagrawal-046/Financial-Transaction-Risk-Analysis](https://github.com/Krishagrawal-046/-Financial-Transaction-Risk-Analysis)
 
 **Description**
 - Detected suspicious transactions
@@ -73,4 +73,4 @@ https://github.com/Krishagrawal-046/Financial-Transaction-Risk-Analysis
 # 📬 Contact
 
 Email: krishagrawal046@gmail.com  
-LinkedIn: (Add your LinkedIn profile link)
+LinkedIn:https://www.linkedin.com/in/krish-agrawal50/
