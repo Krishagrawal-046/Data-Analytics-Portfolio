@@ -1,7 +1,8 @@
 # 📊 Data Analytics Portfolio – Krish Agrawal
+![Krish](krish.jpg)
 
 Welcome to my Data Analytics portfolio.  
-I specialize in **SQL, Power BI, Excel, and Python** to analyze data and build business insights.
+I specialize in **SQL, Power BI, and Excel** to analyze data and build business insights.
 
 🎓 B.Tech – Metallurgical & Materials Engineering, NIT Raipur  
 📊 Aspiring Data Analyst  
