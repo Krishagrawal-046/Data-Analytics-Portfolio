@@ -77,8 +77,3 @@ Developed queries to identify laundering chains and irregular transactions. Trac
 - SQL
   
 ---
-
-# 📬 Contact
-
-Email: krishagrawal046@gmail.com  
-LinkedIn:https://www.linkedin.com/in/krish-agrawal50/
