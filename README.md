@@ -59,7 +59,7 @@ Built a Power BI dashboard to track loan applications, funding and repayments. A
 [https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-](https://github.com/Krishagrawal-046/Customer-Churn-Analysis-Dashboard-)
 
 **Description**
-Cleaned and analyzed customer data using an Excel-based ETL process. Created a dashboard to visualize churn patterns and spot high-risk customers for retention.
+Excel based customer churn analysis dashboard analyzing 6,000+ telecom customers to identify churn drivers using pivot tables, data cleaning, and interactive visualizations.
 
 **Tools Used**
 - Excel
@@ -71,7 +71,7 @@ Cleaned and analyzed customer data using an Excel-based ETL process. Created a d
 [https://github.com/Krishagrawal-046/Financial-Transaction-Risk-Analysis](https://github.com/Krishagrawal-046/-Financial-Transaction-Risk-Analysis)
 
 **Description**
-Developed queries to identify laundering chains and irregular transactions. Track fraud trends over time to support risk mitigation.
+Fraud detection in financial transactions using MySQL. Identifies suspicious transfers, mule accounts, structuring, and laundering patterns.
 
 **Tools Used**
 - SQL
