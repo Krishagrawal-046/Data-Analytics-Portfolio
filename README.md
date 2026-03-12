@@ -2,7 +2,7 @@
 <p align="center">
   <img src="krish.jpg" width="500" height="600">
 </p>
-
+---
 Welcome to my Data Analytics portfolio.  
 I specialize in **SQL, Power BI, and Excel** to analyze data and build business insights.
 
